@@ -14,12 +14,10 @@ In this analysis, two areas were looked at as possible reasons a Kickstarter mig
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- #### What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 - What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
-http://github.com - automatic!
-[GitHub](http://github.com)
