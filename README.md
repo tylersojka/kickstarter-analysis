@@ -7,9 +7,9 @@
 ## Analysis and Challenges
 In this analysis, two areas were looked at as possible reasons a Kickstarter might, or might not be successful. The first relationship that was analyzed was if the launch date of the Kickstarter campaign had any effect on the outcome, and the second was if the goal amount. 
 ### Analysis of Outcomes Based on Launch Date
- https://github.com/tylersojka/kickstarter-analysis/blob/master/Theater_Outcomes_vs_Launch.png
+[Theater Outcomes VS Launch Date](https://github.com/tylersojka/kickstarter-analysis/blob/master/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
-https://github.com/tylersojka/kickstarter-analysis/blob/master/Outcomes_vs_Goals.png
+[Theater Outcomes VS Goal](https://github.com/tylersojka/kickstarter-analysis/blob/master/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 
 ## Results
