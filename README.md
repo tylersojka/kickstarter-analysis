@@ -21,3 +21,5 @@ https://github.com/tylersojka/kickstarter-analysis/blob/master/Outcomes_vs_Goals
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
+http://github.com - automatic!
+[GitHub](http://github.com)
