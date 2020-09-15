@@ -14,11 +14,11 @@ In this analysis, two areas were looked at as possible reasons a Kickstarter mig
 The largest challenge with this analysis was simply learning how to efficiently use excel to make pivot tables. This challenge was easily overcome with practice. The task of matching the data with that of the example was also a challenge. In the outcomes based on goals part of the analysis, I Intuitively wanted to find the percentage successful/failed plays out of the total number of Kickstarter campaigns, not out of the only plays sample. The last challenge was the tediousness of altering the countifs function for each of the separate goal ranges.
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- ### Conclusions about the Outcomes based on Launch Date
 
-- What can you conclude about the Outcomes based on Goals?
+- ### Conclusions about the Outcomes based on Goals
 
-- What are some limitations of this dataset?
+- ### limitations of this dataset
 
-- What are some other possible tables and/or graphs that we could create?
+- ### Other possible tables and/or graphs that we could create
 
