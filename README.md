@@ -19,9 +19,12 @@ The largest challenge with this analysis was simply learning how to efficiently 
 2. The second biggest factor she needs to take into consideration is when to not produce her play. As you can see in the analysis, December is by far the worst month for successful play campaigns. December boasts the lowest number of successful plays, along with the lowest percent of successful plays. 
 3. **Conclusions: From the analysis of outcomes based on launch date, Louise should try and launch her campaign in May, and should defiantly not launch her campaign in December.**
 - ### Conclusions about the Outcomes based on Goals
-
+The analysis of outcomes based on goals was less conclusive. Louise has a budget of $10,000, which puts her chances of success, based on the analysis, at around 54%. The easiest way to bump her into a higher percentage, would be to cut her budget by more than half to put her in the $1,000-$4,999 range with a 73% success rate. 
 - ### limitations of this dataset
-
+This dataset would have been even nicer with more recent data. The current cut off was 2017, meaning about 3 years of data more closely correlated to recent social climates is missing. 
 - ### Other possible tables and/or graphs that we could create
+1. An additional chart and table that would be useful would be the percentages of failed/successful campaigns based on launch date. The chart we had designed with just the numbers of successful/failed campaigns happened to line up pretty closely with the percentages, but a good visual would have been nice.
+2. I would have liked to see if the campaign being a staff pick had any effect on it being successful or not
+
 
 
