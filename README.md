@@ -9,6 +9,7 @@ In this analysis, two areas were looked at as possible reasons a Kickstarter mig
 In this analysis I created a pivot table from the Kickstarter data, made the table filterable by parent catagory and years, added outcomes to columns, outcomes to the sum values, and date created to my rows. I then re-arranged the columns so successful was first. I deslected "live" as an outcome so it was not displayed. the row labels were then grouped to show months of the year. the parent category was then filtered to only show theater projects. The chart that was created from this is below:
 ![Theater Outcomes VS Launch Date](https://github.com/tylersojka/kickstarter-analysis/blob/master/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
+In this part of the analysis, a new sheet was created with Goal, Number Successful, Number Failed,Number Canceled, Total Projects,Percentage Successful, Percentage Failed, Percentage Canceled columns. In the goal column, the dollar amount ranges were added. The other columns were populated using the COUNTIFS() function from the kicstarter data set. The total projects were calculated and then used to populate the percentages columns. The below chart shows the relationships between the percent successful/failed/canceled projects in each goal dollar amount range.
 ![Theater Outcomes VS Goal](https://github.com/tylersojka/kickstarter-analysis/blob/master/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
