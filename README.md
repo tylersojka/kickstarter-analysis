@@ -6,6 +6,7 @@ The Purpose of this analysis is to help our client, Louise, determine the best c
 ## Analysis and Challenges
 In this analysis, two areas were looked at as possible reasons a Kickstarter might, or might not be successful. The first relationship that was analyzed was if the launch date of the Kickstarter campaign had any effect on the outcome, and the second was if the goal amount. 
 ### Analysis of Outcomes Based on Launch Date
+In this analysis I created a pivot table from the Kickstarter data, made the table filterable by parent catagory and years, added outcomes to columns, outcomes to the sum values, and date created to my rows. I then re-arranged the columns so successful was first. Finally I deslected "live" as an outcome so it was not displayed. The chart that was created from this is below:
 ![Theater Outcomes VS Launch Date](https://github.com/tylersojka/kickstarter-analysis/blob/master/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 ![Theater Outcomes VS Goal](https://github.com/tylersojka/kickstarter-analysis/blob/master/Outcomes_vs_Goals.png)
